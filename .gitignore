@@ -1,0 +1,12 @@
+ipynb_checkpoints/
+bin/
+etc/
+Include/
+Lib/
+Scripts/
+share/
+*.env
+*.cfg
+*.csv
+*.xlsx
+dummy.pkl
