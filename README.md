@@ -2,11 +2,13 @@
 
 This project explores the creation of an interactive Data Visualisation Dashboard using Tourism Listing data from the Singapore Tourism Board (STB) Tourism Information & Services Hub (TIH).
 
-**Singapore Tourism Map:**
+**Singapore Tourism Map:**\
 Locations of Attractions, Accomodation and F&B Listings plotted across the Map of Singapore
 ![](gif/Singapore_Tourism_Map.gif)
 
-**Rating / Price Scorecard:** Scatterplots of the Rating & Price Scores and Percentile of Tourism Listings
+\
+**Rating / Price Scorecard:**\
+Scatterplots of the Rating & Price Scores and Percentile of Tourism Listings
 ![](gif/Rating_Price_Scorecard.gif)
 ## Launch Dashboard
 
