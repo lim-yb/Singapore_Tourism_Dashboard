@@ -1,10 +1,10 @@
-ipynb_checkpoints/
-bin/
-etc/
-Include/
-Lib/
-Scripts/
-share/
+*.ipynb_checkpoints/
+*bin/
+*etc/
+*Include/
+*Lib/
+*Scripts/
+*share/
 *.env
 *.cfg
 *.csv
