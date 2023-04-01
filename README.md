@@ -18,8 +18,8 @@ After running the Jupyter Notebook, to launch the Dashboard locally, run the fol
 panel serve Singapore_Tourism_Map_Visualisation.ipynb
 ```
 ## Techniques
-- API Integration
-- RegEx Data Cleaning
+- Data Ingestion from API
+- Data Cleaning Pipeline including RegEx
 - Interactive Dashboard (Panel Library)
 - Map Visualisation (Folium Library)
 - Graph Visualisation (hvPlot Library)
